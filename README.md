@@ -4,14 +4,14 @@
 <h3 align="center">The farthest distance in the world is between how it is, and how you thought it would be</h3>
 
 
-CHECK OUT MY WEBSITE DEVELOPED IN ANGULAR: https://mahansharifi.github.io/Personal-Portfolio/Home
+CHECK OUT MY WEBSITE DEVELOPED IN ANGULAR: https://mahanpersonalportfolio.web.app/Home
 ALL MY PROJECTS ARE PUBLISHED ON MY PERSONAL WEBSITE
 
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱
 
-- 👨‍💻 All of my projects are available at [https://mahansharifi.github.io/Personal-Portfolio/Home](https://mahansharifi.github.io/Personal-Portfolio/Home)
+- 👨‍💻 All of my projects are available at [https://mahanpersonalportfolio.web.app/Home](https://mahanpersonalportfolio.web.app/Home)
 
 - 📫 How to reach me **mahan9879@gmail.com**
 

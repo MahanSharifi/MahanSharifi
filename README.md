@@ -4,8 +4,8 @@
 <h3 align="center">The farthest distance in the world is between how it is, and how you thought it would be</h3>
 
 
-CHECK OUT MY WEBSITE DEVELOPED IN ANGULAR: https://mahanpersonalportfolio.web.app/Home
-SOME OF MY PROJECTS ARE PUBLISHED ON MY PERSONAL WEBSITE
+https://mahanpersonalportfolio.web.app/Home
+
 
 
 

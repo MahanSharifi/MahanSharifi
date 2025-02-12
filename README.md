@@ -5,13 +5,13 @@
 
 
 CHECK OUT MY WEBSITE DEVELOPED IN ANGULAR: https://mahanpersonalportfolio.web.app/Home
-ALL MY PROJECTS ARE PUBLISHED ON MY PERSONAL WEBSITE
+SOME OF MY PROJECTS ARE PUBLISHED ON MY PERSONAL WEBSITE
 
 
 
 - 🌱
 
-- 👨‍💻 All of my projects are available at [https://mahanpersonalportfolio.web.app/Home](https://mahanpersonalportfolio.web.app/Home)
+- 👨‍💻 Some of my projects are available at [https://mahanpersonalportfolio.web.app/Home](https://mahanpersonalportfolio.web.app/Home)
 
 - 📫 How to reach me **mahan9879@gmail.com**
 

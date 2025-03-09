@@ -9,9 +9,7 @@ https://mahanpersonalportfolio.web.app/Home
 
 
 
-- 🌱
-
-- 👨‍💻 Some of my projects are available at [https://mahanpersonalportfolio.web.app/Home](https://mahanpersonalportfolio.web.app/Home)
+- Hey, I have worked in Product, Platform and Internal Tools. Always open to learning new things.
 
 - 📫 How to reach me **mahan9879@gmail.com**
 

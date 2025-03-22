@@ -4,7 +4,6 @@
 <h3 align="center">The farthest distance in the world is between how it is, and how you thought it would be</h3>
 
 
-https://mahanpersonalportfolio.web.app/Home
 
 
 

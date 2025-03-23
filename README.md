@@ -8,7 +8,7 @@
 
 
 
-- Hey, I have worked in Product, Platform and Internal Tools. Always open to learning new things.
+- Hey, I have worked in Product, Platform and Internal Tools. Always open to learning new things. Also, im a founder ;)
 
 - 📫 How to reach me **mahan9879@gmail.com**
 
